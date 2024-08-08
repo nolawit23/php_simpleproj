@@ -1,0 +1,43 @@
+body {
+font-family:Arial;
+}
+#register input {
+font-family:Arial;
+font-size:10px;
+}
+#register label{
+font-family:Arial;
+font-size:14px;
+color:#181818;
+}
+#register .tblSaveForm {
+border-top:10px #999999 solid;
+background-color: #003366;
+}
+#register .tableheader {
+background-color: #2f91f2;
+}
+#register .btnSubmit {
+background-color:#1585ea;
+padding:10px;
+width: 100px;
+border-color:#0473fb;
+border-radius:6px;
+color:white;
+}
+#register .message {
+color: #FF0000;
+text-align: center;
+width: 100%;
+}
+#register .txtField {
+padding: 10px;
+border:#fedc4d 1px solid;
+border-radius:4px;
+}
+#register .required {
+color: #FF0000;
+font-size:11px;
+font-weight:italic;
+padding-left:10px;
+}
